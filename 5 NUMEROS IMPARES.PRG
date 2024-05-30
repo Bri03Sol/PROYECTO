@@ -1,0 +1,5 @@
+CLEAR
+
+FOR I=1 TO 9 STEP 2
+?I
+ENDFOR

@@ -1,0 +1,8 @@
+CLEAR
+F=4
+S=1
+
+FOR F=4 TO 2 STEP -1
+S= S*F
+ENDFOR
+?S
